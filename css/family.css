@@ -1,0 +1,24 @@
+nav {
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: lightgreen;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: skyblue;
+}
+
+p {
+    font-size: 16px;
+}
+
+.family-members {
+    list-style-type: square;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(119, 202, 229);
+}
